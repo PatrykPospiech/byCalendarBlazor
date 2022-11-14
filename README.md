@@ -1,0 +1,2 @@
+# byCalendarBlazor
+byCalendarBlazor learning app
